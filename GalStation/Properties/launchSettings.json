@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "GalStation (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "GalStation (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
